@@ -2,6 +2,8 @@ To use, a canvas element must be appended.
 
 Example:
 
+![513px png heightmap](https://pbs.twimg.com/media/B9a2emECcAEd_pE.png)
+
 
 ```
 <canvas id='display' width='1' height='1'>
